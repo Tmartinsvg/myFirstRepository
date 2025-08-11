@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is file3.txt
+=======
+New line added in GitHub
+>>>>>>> 646d3b3799c5ca3a414c0b3e1443838453d6bbdc
